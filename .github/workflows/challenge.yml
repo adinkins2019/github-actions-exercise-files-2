@@ -9,7 +9,7 @@ jobs:
       - name: Step One
       - run: date
   job2:
-    name Job Two
+    name: Job Two
     runs-on: windows-latest
     steps:
       - name: Step One
